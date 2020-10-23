@@ -6,4 +6,6 @@ Now customer asked another feature to add in another version
 
 Added 1 more  feature for the customer
 
+Merging files  
+
 Now customers are happy:)
