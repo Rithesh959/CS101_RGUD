@@ -1,3 +1,5 @@
 running stash 1 now
 
-running after stage 
+running after stage
+
+now diff in ws
